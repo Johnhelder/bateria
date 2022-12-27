@@ -12,4 +12,9 @@ function playSound(sound){
   if(audioElement){
     audioElement.play();
   }  
+
+  
+  if(keyElement){
+    keyElement.classList.add('active');
+  }
 }
