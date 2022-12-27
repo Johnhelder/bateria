@@ -16,5 +16,9 @@ function playSound(sound){
   
   if(keyElement){
     keyElement.classList.add('active');
+
+    setTimeout(()=>{
+      keyElement.classList.remove('active');
+    }, 300);
   }
 }
