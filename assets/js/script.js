@@ -1,6 +1,7 @@
 //Criando evento
 document.body.addEventListener('keyup', (event)=>{
   
+  playSound(event.code.toLowerCase());
 });
 
 //Iniciar o som
