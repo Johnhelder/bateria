@@ -31,3 +31,9 @@ function playSound(sound){
     }, 300);
   }
 }
+
+function playComposition(songArray){
+  for(let songItem of songArray){
+    playSound(`key${songItem}`);
+  }
+}
