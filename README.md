@@ -3,7 +3,7 @@
 Projeto bateria feito com as tecnologias HTML, CSS e JavaScript
 <h2>Ir para o site</h2>
 <span class="flex-auto min-width-0 css-truncate css-truncate-target width-fit">
-        <a title="https://projeto-bateria.netlify.app/" role="link" target="_blank" rel="noopener noreferrer nofollow" class="text-bold" href="https://projeto-bateria.netlify.app/">Acessar site</a>
+        <a title="https://projeto-bateria.netlify.app/" role="link" target="_blank" rel="noopener noreferrer nofollow" class="text-bold" href="https://projeto-bateria.netlify.app/">projeto-bateria.netlify.app/</a>
       </span>
 
 <h2>Deploy</he><br><br>
